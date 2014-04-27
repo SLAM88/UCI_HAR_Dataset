@@ -9,7 +9,8 @@ This projects draws on data from the [UCI Machine Learning Repository] (http://a
 Methodology
 -----------
 
-In specific, the R script performs the following steps
+In specific, the R script performs the following steps:
+
 1. Merges the training and the test sets into one data set.
 2. Extracts the variables related to mean and standard deviation calculation. 
 3. Appends a column to identify data points in the dataset.
